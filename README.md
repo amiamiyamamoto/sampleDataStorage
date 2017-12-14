@@ -1,0 +1,3 @@
+# sampleDataStorage
+
+userDefaultにインスタンスを保存する練習をするためのアプリ
